@@ -10,9 +10,9 @@
 (abbrev-mode t)
  (define-abbrev-table 'global-abbrev-table '(
                                               ;; signature
-                                              ("8zl" "zilongshanren")
+                                              ("2ch" "StillHC")
                                               ;; Microsoft
-                                              ("8ms" "Macrosoft")
+                                              ;;("8ms" "Macrosoft")
                                               ))
 
 (setq make-backup-files nil)
